@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.DocumentsFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="140dp"
+            android:layout_height="120dp"
+            android:icon="@drawable/ic_action_attachee"
+            android:text="@string/attach_letter"
+            android:backgroundTint="#495FA6"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.9"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.499" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="140dp"
+            android:layout_height="120dp"
+            android:icon="@drawable/ic_action_insurance"
+            android:text="@string/log"
+            android:backgroundTint="#495FA6"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.902"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.169" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="140dp"
+            android:layout_height="120dp"
+            android:icon="@drawable/ic_action_book"
+            android:text="@string/insurance"
+            android:backgroundTint="#495FA6"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.13"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.499" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="140dp"
+            android:layout_height="120dp"
+            android:icon="@drawable/ic_action_documents"
+            android:text="@string/attacheelists"
+            android:backgroundTint="#495FA6"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.127"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.169" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_status">status</string>
+    <string name="menu_industrial">industrial</string>
+    <string name="menu_industries">industries</string>
+    <string name="name">Name</string>
+    <string name="course">course</string>
+    <string name="phone_no">phone.no</string>
+    <string name="department">department</string>
+    <string name="place_attached">Place Attached</string>
+    <string name="town">town</string>
+    <string name="county">county</string>
+    <string name="update">update</string>
+    <string name="menu_documents">documents</string>
+    <string name="nav_Industrial_Liason">liason</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="attachee_list">Attachee_List</string>
+    <string name="insurance_cover">Insurance_Cover</string>
+    <string name="log_book">Log_Book</string>
+    <string name="attachment_letter">Attachment_Letter</string>
+    <string name="attach_letter">Attachment Letter</string>
+    <string name="log">log book</string>
+    <string name="insurance">insurance cover</string>
+    <string name="attachee">attachee_list</string>
+    <string name="attacheelists">attachee list</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="adm_no">Adm.no</string>
+    <string name="prompt_adm_no" />
+    <string name="login">login</string>
+    <string name="log_in">Log In</string>
+    <string name="adm">Adm.No</string>
+    <string name="user_name">User Name</string>
+    <string name="menu_item">itemlist</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578983776838",
+    "project_id": "learning-6ebb1",
+    "storage_bucket": "learning-6ebb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578983776838:android:bd68553d1dbb5cf0c4b047",
+        "android_client_info": {
+          "package_name": "com.favortech.navigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578983776838-5v3aa9pt19uptfkdm0385tpce3ra1s9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqhTMcUT08BvqcnVtsNK0sreG19l2jb14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578983776838-5v3aa9pt19uptfkdm0385tpce3ra1s9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
